@@ -14,7 +14,7 @@ My career began in graphic and web design as well as music, transitioning to man
 <br />
 As an experienced public speaker and community organiser, I've run WordPress meetups, emceed conferences and festivals, spent over a decade as a radio announcer and interviewer, planned varied events for clubs, groups, businesses and organisations, and more recently I've begun holding classes as a certified chocolate taster.<br />
 <br />
-I'm technically capable, agile trained, and an experienced leader. I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, fearless innovation, and inspirational leadership. I believe that my diverse experiences enhance my adaptability and foresight in professional settings, making me a valuable member of any team or project.
+I'm technically capable, agile trained, and an experienced leader. I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, fearless innovation, and inspirational leadership. I believe that my diverse experiences enhance my adaptability and foresight in professional settings, making me a valuable problem solver.
 </details>
 
 **Are you in Wellington? Let's grab a coffee or beer!** 🍻
