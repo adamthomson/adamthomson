@@ -1,8 +1,8 @@
 ## Kia ora and welcome 👋 
 
-- 💼 By day, I work as a Project Manager and Crafter for [Shopify](https://github.com/shopify)'s Plus and Enterprise Support team. 
+- 💼 By day, I work as a Project Manager and Crafter for [Shopify](https://github.com/shopify)'s Plus and Enterprise Support team.
 - 🍫 By night, I co-own [The Chocolate Bar](https://thechocolatebar.nz) importing chocolate, selling it online, and running tasting events.
-- 🌱 I’m currently learning BigQuery+LookerStudio, and studying towards my [Certified Associate of Project Management](https://www.pmi.org/certifications/certified-associate-capm),
+- 🌱 I’m currently learning BigQuery+LookerStudio, and studying towards my [Certified Associate of Project Management](https://www.pmi.org/certifications/certified-associate-capm).
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/adamthomsonnz)
 - 💬 Ask me about: Leadership, business, systems, data, web or ecommerce.
 
