@@ -12,7 +12,7 @@ I've been with Shopify since 2019, predominantly in leadership roles, where I'm 
 <br />
 My career began in graphic and web design as well as music, transitioning to managing a legendary 40yo radio station, which I helped to revitalise successfully. I've worked extensively in marketing, web development, and IT systems administration, serving a wide range of clients including businesses, charities, and government entities.<br />
 <br />
-As an experienced public speaker and community organiser, I've run WordPress meetups, emceed conferences and festivals, spent over a decade as a radio announcer and interviewer, planned varied events for clubs, groups, businesses and organisations, and more recently I've begun holding classes as a certified chocolate taster.<br />
+As an experienced public speaker and community organiser, I've run WordPress meetups, planned and emceed all kinds of conferences and festivals, spent over a decade as a radio announcer and interviewer, and more recently held classes as a certified chocolate taster.<br />
 <br />
 I'm technically capable, agile trained, and an experienced leader. I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, fearless innovation, and inspirational leadership. I believe that my diverse experiences enhance my adaptability and foresight in professional settings, making me a valuable problem solver.
 </details>
