@@ -1,4 +1,4 @@
-## Kia ora 👋 
+## Kia ora and welcome 👋 
 
 - 💼 By day, I work as a Crafter and Project Manager for [Shopify](https://github.com/shopify) in their Plus and Enterprise Support team.
 - 🍫 By night, I co-own [The Chocolate Bar](https://thechocolatebar.nz) importing chocolate, selling it online, and running tasting events.
