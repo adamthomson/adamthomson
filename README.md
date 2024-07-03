@@ -6,19 +6,17 @@
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/adamthomsonnz)
 - 💬 Ask me about: Leadership, business, systems, data, web or ecommerce.
 
-I'm technically capable, but also a passionate advocate of design and UX, feedback loops, first principles thinking and informed decision making, innovative and inspirational leadership.
-
-**If you find yourself in Wellington, New Zealand, let's grab a coffee or beer!** 🍻
-
 <details>
 <summary>Background (Click to expand)</summary>
 I've been with Shopify since 2019, in a leadership capacity since 2021, where I'm proud to help my team support some of the biggest flash sellers and household name brands in the world. 🚀
 
-My career began in graphic and web design as well as music, transitioning to managing a legendary 40yo radio station, which we revitalized successfully. I've since worked extensively in marketing, web development, and IT systems administration, serving a wide range of clients including businesses, charities, and government entities. As a public speaker and community organizer, I've contributed to various forums, including emceeing WordCamp NZ the national WordPress conference. 
+My career began in graphic and web design as well as music, transitioning to managing a legendary 40yo radio station, which we revitalized successfully. I've since worked extensively in marketing, web development, and IT systems administration, serving a wide range of clients including businesses, charities, and government entities. As a public speaker and community organizer, I've contributed to various forums, including emceeing WordCamp NZ the national WordPress conference.
 
-I believe my diverse experiences enhance my adaptability and foresight in professional settings, making me a valuable member of any team or project.
-  
+I'm technically capable and agile trained, but I'm also a passionate advocate of design and UX, feedback and informed decision making, first principles, innovation, and inspirational leadership. I believe that I stand out because when people meet me they can tell that I genuinely care. I believe my diverse experiences enhance my adaptability and foresight in professional settings, making me a valuable member of any team or project.
 </details>
+
+**Are you in Wellington? Let's grab a coffee or beer!** 🍻
+
 
 <!--
 **adamthomson/adamthomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
