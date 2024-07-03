@@ -8,7 +8,7 @@
 
 <details>
 <summary>Background (Click to expand)</summary>
-I've been with Shopify since 2019, predominantly in leadership roles, where I'm proud to help our teams support globally recongised brands to win and succeed. 🚀<br />
+I've been with Shopify since 2019, predominantly in leadership roles, where I'm proud to help our teams support global brands to succeed. 🚀<br />
 <br />
 My career began in graphic and web design as well as music, transitioning to managing a legendary 40yo radio station, which I helped to revitalise successfully. I've worked extensively in marketing, web development, and IT systems administration, serving a wide range of clients including businesses, charities, and government entities.<br />
 <br />
