@@ -1,14 +1,14 @@
 ## Kia ora and welcome 👋 
 
-- 💼 By day, I work as a Project Manager and Crafter for [Shopify](https://github.com/shopify)'s Plus and Enterprise Support team.
-- 🍫 By night, I co-own [The Chocolate Bar](https://thechocolatebar.nz) importing chocolate, selling it online, and running tasting events.
-- 🌱 I’m currently learning BigQuery+LookerStudio, and studying towards my [Certified Associate of Project Management](https://www.pmi.org/certifications/certified-associate-capm).
+- 💼 By day, I work as a Project Manager and Crafter for [Shopify](https://github.com/shopify)'s Plus and Enterprise Support team
+- 🍫 By night, I co-own [The Chocolate Bar](https://thechocolatebar.nz) importing chocolate, selling it online, and running tasting events
+- 🌱 I’m currently learning BigQuery+LookerStudio, and studying towards my [Certified Associate of Project Management](https://www.pmi.org/certifications/certified-associate-capm)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/adamthomsonnz)
-- 💬 Ask me about: Leadership, business, systems, data, web or ecommerce.
+- 💬 Ask me about: Leadership, business, data, systems, web or e-commerce.
 
 <details>
 <summary>Background (Click to expand)</summary>
-I've been with Shopify since 2019, in a leadership capacity since 2021, where I'm proud to help my team support some of the biggest flash sellers and household name brands in the world. 🚀<br />
+I've been with Shopify since 2019, predominantly in leadership roles, where I'm proud to help our teams support globally recongised brands to win and succeed. 🚀<br />
 <br />
 My career began in graphic and web design as well as music, transitioning to managing a legendary 40yo radio station, which we revitalized successfully. I've since worked extensively in marketing, web development, and IT systems administration, serving a wide range of clients including businesses, charities, and government entities. As a public speaker and community organizer, I've contributed to various forums, including emceeing WordCamp NZ the national WordPress conference.<br />
 <br />
