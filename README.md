@@ -10,7 +10,7 @@
 <summary>Background (Click to expand)</summary>
 I've been with Shopify since 2019, predominantly in leadership roles, where I'm proud to help our teams do their best work. 🚀<br />
 <br />
-My career began in graphic and web design as well as music, transitioning to managing a legendary 40yo radio station, which I helped to revitalise successfully. I've worked extensively in marketing, web development, and IT systems administration, serving a wide range of clients including businesses, charities, and government entities.<br />
+My career began in graphic and web design as well as music, transitioning to managing a legendary 40yo radio station, which I helped to revitalise. I've worked extensively in marketing, web development, and IT systems administration, serving a wide range of clients including businesses, charities, and government entities.<br />
 <br />
 As an experienced public speaker and community organiser, I've run WordPress meetups, planned and emceed all kinds of conferences and festivals, spent over a decade as a radio announcer and interviewer, and more recently held classes as a certified chocolate taster.<br />
 <br />
