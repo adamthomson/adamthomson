@@ -1,6 +1,6 @@
 ## Kia ora 👋 
 
-- 💼 By day, I work as a Project Manager and Strategic Crafter for [Shopify](https://github.com/shopify)'s Plus and Enterprise Support.
+- 💼 I work as a Project Manager and Senior Delivery Crafter for [Shopify](https://github.com/shopify)'s Plus and Enterprise Support tier - **tl;dr** I help to build the experience that the highest revenue stores on Shopify have if they contact support, including flash sellers and household name brands.
 - 🍫 I've worked in business, NGOs, media and education. I started on the frontline, and have worked my way to senior leadership.
 - 🌱 I’m certified Agile, continuously studying through the [Project Management Institute](https://www.pmi.org/certifications/certified-associate-capm), learning how powerful BigQuery and Looker Studio can be, and I'm dabbling in Shopify app development when I have the time...
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/adamthomsonnz)
