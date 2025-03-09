@@ -1,7 +1,7 @@
 ## Kia ora 👋 
 
 - 💼 By day, I work as a Project Manager and Strategic Crafter for [Shopify](https://github.com/shopify)'s Plus and Enterprise Support.
-- 🍫 By night, I co-own [The Chocolate Bar](https://thechocolatebar.nz) importing fine chocolate, selling it online, and running tasting events
+- 🍫 My experience holds real value, having worked in business and NGOs, media and education. I started on the frontline, and have worked my way to senior leadership.
 - 🌱 I’m certified Agile, continuously studying through the [Project Management Institute](https://www.pmi.org/certifications/certified-associate-capm), learning how powerful BigQuery and Looker Studio can be, and I'm interested in Shopify app development when I have the time...
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/adamthomsonnz)
 - 💬 Ask me about: Leadership, business, data, systems, web or e-commerce
