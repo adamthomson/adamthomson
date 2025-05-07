@@ -38,8 +38,8 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 - **2021** - Became an enterprise support manager
 - **2023** - ✈️ attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
 - **2023** - Joined enterprise support's senior leadership team
-- **2025** - ✈️ attended Shopify Summit, Toronto, Canada
 - **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
+- **2025** - ✈️ attended Shopify Summit, Toronto, Canada
 - **2025** - Travelling through 24 towns and cities across 17 countries over 4 months - 90/10 workation/vacation
 
 **Experienced technical lead** - I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.<br />
