@@ -15,7 +15,7 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 - **2004** - Begun organising events, promoting music
 - **2007** - Became a radio DJ and announcer at legendary 40-year-old station [radioactive.fm](https://radioactive.fm)
 - **2009** - Started working for successful clothing brand [ALC Apparel](https://alostcauseofficial.com)
-  - Helped grow from 1 shop in Wellington, NZ to >100 stockists globally and based in Huntington Beach, California
+  - Helped grow from 1 shop in Wellington, NZ to over 100 stockists globally, is now based in Huntington Beach, California
   - Rebuilt website 3x and changed platforms 2x to meet trends and demand
 - **2011** - WordCamp (WordPress conference) co-organiser
 - **2014** - Contracted to manage radio station for 4 weeks
@@ -24,18 +24,18 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
   - Helped fundraise, save and convert the radio station into a charitable trust
   - Helped form a culture and events committee
   - Helped move to a brand new state-of-the-art building
-- **2017** - Started working for an industry training organization
+- **2017** - Started working for industry training organization [NZHITO](hito.org.nz)
   - Moved all technology from on-prem to cloud (O365)
   - Rebuilt 4 websites
   - Rebuilt their learning management system 
 - **2018** - WordCamp (WordPress conference) co-organiser and emcee
-- **2019 - Started working for Shopify** 🚀
-  - **2020** - ✈️ Shopify Summit, Ottawa, Canada. Toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
+- **2019 -  🚀 Started working for [Shopify.com](https://shopify.com)**
+  - **2020** - ✈️ attended Shopify Summit, Ottawa, Canada - toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
   - **2020** - Joined pilot to build the support experience for Shopify's highest value merchants
   - **2021** - Became an enterprise support manager
-  - **2023** - ✈️ Leadership conference, Fairmont Banff Springs, Canada
+  - **2023** - ✈️ attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
   - **2023** - Joined enterprise support's senior leadership team
-  - **2025** - ✈️ Shopify Summit, Toronto, Canada
+  - **2025** - ✈️ attended Shopify Summit, Toronto, Canada
 - **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
 - **2025** - Travelling through 24 towns and cities across 17 countries over 4 months - 90/10 workation/vacation
 
