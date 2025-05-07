@@ -6,13 +6,42 @@
 
 <details>
 <summary>Background (Click to expand)</summary>
-I've been with Shopify.com since 2019, predominantly in leadership roles, where I'm proud to help our teams do their best work. 🚀<br />
+
+I've been with Shopify.com since 2019 where I'm proud to help our teams do their best work. 🚀<br />
 <br />
-I started freelancing in web development and graphic design at a young age, transitioning to managing a legendary 40yo radio station in my late twenties, which I helped to revitalise. I've worked extensively in marketing, web development, and IT systems administration, serving a range of clients including businesses, charities, and government entities.<br />
+
+- **Late 1990s** - Began building websites as a teenager
+- **2000s** - Begun freelancing in design, photography and website development
+- **2007** - Became a DJ at a legendary 40-year-old radio station
+- **2009** - Started working for a successful clothing brand
+- **2011** - WordCamp (WordPress conference) co-organiser
+- **2014** - Contracted to manage radio station for 4 weeks
+- **2017** - Took over Wellington WordPress meetup.com group, begun co-organising WP meetups
+- **2017** - Contracted to manage radio station for 6 weeks
+  - Helped fundraise, save and convert the radio station into a charitable trust
+  - Helped form a culture and events committee
+  - Helped move to a brand new state-of-the-art building
+- **2017** - Started working for an industry training organization
+  - Moved all technology from on-prem to cloud (O365)
+  - Rebuilt 4 websites
+  - Rebuilt their learning management system 
+- **2018** - WordCamp (WordPress conference) co-organiser and emcee
+- **2019 - Started working for Shopify** 🚀
+  - **2020** - ✈️ Shopify Summit, Ottawa, Canada
+    - Toured HQ, met CEO Tobi Lütke, COO Toby Shannon and Chief of Operations David Gaylord
+  - **2020** - Joined pilot to design the support experience for Shopify's highest value merchants
+  - **2021** - Became an enterprise support manager
+  - **2020** - ✈️ Leadership conference, Fairmont Banff Springs, Canada
+  - **2023** - Joined enterprise support's senior leadership team
+  - **2025** - ✈️ Shopify Summit, Toronto, Canada
+- **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
+- **2025** - Travelling through 24 towns and cities across 17 countries over 4 months - most of it while working 
+
 <br />
-Experienced public speaker and community organiser - I've spent over a decade as a radio announcer and interviewer, planned and emceed conferences and festivals, run meetup groups, and more recently held classes as one of New Zealand's very few certified chocolate tasters.<br />
+Experienced public speaker and community organiser - Over a decade as a radio announcer and interviewer, planner and emcee of conferences and festivals, IT meetup organiser, and more recently chocolate tasting host and educator as one of New Zealand's very few certified chocolate tasters.<br />
 <br />
-I'm an experienced technical lead. I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, fearless innovation, and inspirational leadership. I believe that my diverse experiences enhance my adaptability and foresight in professional settings, making me a valuable problem solver.
+Experienced technical lead. I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.
+
 </details>
 
 **Are you in Wellington? Let's grab a coffee or beer!** 🍻
