@@ -12,8 +12,11 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 
 - **Late 1990s** - Began building websites as a teenager
 - **2000s** - Begun freelancing in design, photography and website development
-- **2007** - Became a radio DJ and announcer at legendary 40-year-old station radioactive.fm
-- **2009** - Started working for successful clothing brand alostcauseofficial.com
+- **2004** - Begun organising events, promoting music
+- **2007** - Became a radio DJ and announcer at legendary 40-year-old station [radioactive.fm](https://radioactive.fm)
+- **2009** - Started working for successful clothing brand [ALC Apparel](https://alostcauseofficial.com)
+  - Helped grow from 1 shop in Wellington, NZ to >100 stockists globally and based in Huntington Beach, California
+  - Rebuilt website 3x and changed platforms 2x to meet trends and demand
 - **2011** - WordCamp (WordPress conference) co-organiser
 - **2014** - Contracted to manage radio station for 4 weeks
 - **2017** - Took over Wellington WordPress meetup.com group, begun co-organising WP meetups
