@@ -8,7 +8,8 @@
 <summary>Timeline (Click to expand)</summary>
 <br />
 I've been with Shopify.com since 2019 where I'm proud to help our teams do their best work. 🚀<br />
-<br />
+
+### Early Years
 
 - **Late 1990s** - Began building websites as a teenager
 - **2000s** - Begun freelancing in design, photography and website development
@@ -29,13 +30,16 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
   - Rebuilt 4 websites
   - Rebuilt their learning management system 
 - **2018** - WordCamp (WordPress conference) co-organiser and emcee
-- **2019 -  🚀 Started working for [Shopify.com](https://shopify.com)**
-  - **2020** - ✈️ attended Shopify Summit, Ottawa, Canada - toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
-  - **2020** - Joined pilot to build the support experience for Shopify's highest value merchants
-  - **2021** - Became an enterprise support manager
-  - **2023** - ✈️ attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
-  - **2023** - Joined enterprise support's senior leadership team
-  - **2025** - ✈️ attended Shopify Summit, Toronto, Canada
+
+### Shopify (2019-)  🚀
+
+- **2019** - Started working for [Shopify.com](https://shopify.com)
+- **2020** - ✈️ attended Shopify Summit, Ottawa, Canada - toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
+- **2020** - Joined pilot to build the support experience for Shopify's highest value merchants
+- **2021** - Became an enterprise support manager
+- **2023** - ✈️ attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
+- **2023** - Joined enterprise support's senior leadership team
+- **2025** - ✈️ attended Shopify Summit, Toronto, Canada
 - **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
 - **2025** - Travelling through 24 towns and cities across 17 countries over 4 months - 90/10 workation/vacation
 
