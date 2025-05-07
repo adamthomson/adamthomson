@@ -5,7 +5,7 @@
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
 
 <details>
-<summary>Timeline (Click to expand)</summary>
+<summary>Career Journey (Click to expand)</summary>
 <br />
 I've been with Shopify.com since 2019 where I'm proud to help our teams do their best work. 🚀<br />
 
@@ -42,9 +42,9 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 - **2025** - ✈️ attended Shopify Summit, Toronto, Canada
 - **2025** - Travelling through 24 towns and cities across 17 countries over 4 months - 90/10 workation/vacation
 
-**Experienced technical lead** - I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.<br />
+I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.
 <br />
-**Experienced public speaker and community organiser** - Over a decade as a radio announcer and interviewer, planner and emcee of conferences and festivals, IT meetup organiser, and more recently chocolate tasting host and educator as one of New Zealand's very few certified chocolate tasters.<br />
+I'm an experienced public speaker and community organiser having been a radio announcer and interviewer for over a decade, a planner and emcee of conferences and festivals, an IT meetup organiser, and more recently a chocolate tasting host and educator as one of NZ's very few certified tasters.<br />
 
 </details>
 
