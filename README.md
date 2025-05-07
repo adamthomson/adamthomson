@@ -1,7 +1,7 @@
 ## Kia ora 👋 
 
 - 💼 Senior Delivery Crafter and Project Manager for [Shopify](https://github.com/shopify)'s Enterprise support team.
-- 🌱 Studying Agile through [Project Management Institute](https://www.pmi.org/) where I'm a member of the NZ Chapter.
+- 🌱 Always studying Agile through [Project Management Institute](https://www.pmi.org/) where I'm a member of the NZ Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
 
 <details>
