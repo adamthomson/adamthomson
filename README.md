@@ -5,15 +5,14 @@
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
 
 <details>
-<summary>Background (Click to expand)</summary>
-
+<summary>Timeline (Click to expand)</summary>
+<br />
 I've been with Shopify.com since 2019 where I'm proud to help our teams do their best work. 🚀<br />
 <br />
-
 - **Late 1990s** - Began building websites as a teenager
 - **2000s** - Begun freelancing in design, photography and website development
-- **2007** - Became a DJ at a legendary 40-year-old radio station
-- **2009** - Started working for a successful clothing brand
+- **2007** - Became a radio DJ and announcer at legendary 40-year-old station radioactive.fm
+- **2009** - Started working for successful clothing brand alostcauseofficial.com
 - **2011** - WordCamp (WordPress conference) co-organiser
 - **2014** - Contracted to manage radio station for 4 weeks
 - **2017** - Took over Wellington WordPress meetup.com group, begun co-organising WP meetups
@@ -27,20 +26,18 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
   - Rebuilt their learning management system 
 - **2018** - WordCamp (WordPress conference) co-organiser and emcee
 - **2019 - Started working for Shopify** 🚀
-  - **2020** - ✈️ Shopify Summit, Ottawa, Canada
-    - Toured HQ, met CEO Tobi Lütke, COO Toby Shannon and Chief of Operations David Gaylord
-  - **2020** - Joined pilot to design the support experience for Shopify's highest value merchants
+  - **2020** - ✈️ Shopify Summit, Ottawa, Canada. Toured HQ, met CEO Tobi Lütke, COO Toby Shannon and Chief of Operations David Gaylord
+  - **2020** - Joined pilot to build the support experience for Shopify's highest value merchants
   - **2021** - Became an enterprise support manager
   - **2023** - ✈️ Leadership conference, Fairmont Banff Springs, Canada
   - **2023** - Joined enterprise support's senior leadership team
   - **2025** - ✈️ Shopify Summit, Toronto, Canada
 - **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
-- **2025** - Travelling through 24 towns and cities across 17 countries over 4 months - most of it while working 
+- **2025** - Travelling through 24 towns and cities across 17 countries over 4 months - 90/10 workation/vacation
 
+**Experienced technical lead** - I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.<br />
 <br />
-Experienced public speaker and community organiser - Over a decade as a radio announcer and interviewer, planner and emcee of conferences and festivals, IT meetup organiser, and more recently chocolate tasting host and educator as one of New Zealand's very few certified chocolate tasters.<br />
-<br />
-Experienced technical lead. I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.
+**Experienced public speaker and community organiser** - Over a decade as a radio announcer and interviewer, planner and emcee of conferences and festivals, IT meetup organiser, and more recently chocolate tasting host and educator as one of New Zealand's very few certified chocolate tasters.<br />
 
 </details>
 
