@@ -31,7 +31,7 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
     - Toured HQ, met CEO Tobi Lütke, COO Toby Shannon and Chief of Operations David Gaylord
   - **2020** - Joined pilot to design the support experience for Shopify's highest value merchants
   - **2021** - Became an enterprise support manager
-  - **2020** - ✈️ Leadership conference, Fairmont Banff Springs, Canada
+  - **2023** - ✈️ Leadership conference, Fairmont Banff Springs, Canada
   - **2023** - Joined enterprise support's senior leadership team
   - **2025** - ✈️ Shopify Summit, Toronto, Canada
 - **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
