@@ -9,6 +9,7 @@
 <br />
 I've been with Shopify.com since 2019 where I'm proud to help our teams do their best work. 🚀<br />
 <br />
+
 - **Late 1990s** - Began building websites as a teenager
 - **2000s** - Begun freelancing in design, photography and website development
 - **2007** - Became a radio DJ and announcer at legendary 40-year-old station radioactive.fm
@@ -26,7 +27,7 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
   - Rebuilt their learning management system 
 - **2018** - WordCamp (WordPress conference) co-organiser and emcee
 - **2019 - Started working for Shopify** 🚀
-  - **2020** - ✈️ Shopify Summit, Ottawa, Canada. Toured HQ, met CEO Tobi Lütke, COO Toby Shannon and Chief of Operations David Gaylord
+  - **2020** - ✈️ Shopify Summit, Ottawa, Canada. Toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
   - **2020** - Joined pilot to build the support experience for Shopify's highest value merchants
   - **2021** - Became an enterprise support manager
   - **2023** - ✈️ Leadership conference, Fairmont Banff Springs, Canada
