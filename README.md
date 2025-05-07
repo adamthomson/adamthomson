@@ -11,9 +11,8 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 
 ### Early Years
 
-- **Late 1990s** - Began building websites as a teenager
-- **2000s** - Begun freelancing in design, photography and website development
-- **2004** - Begun organising events, promoting music
+- **2000s** - Started freelancing in design, photography and website development
+- **2004** - Started organising events and promoting music
 - **2007** - Became a radio DJ and announcer at legendary 40-year-old station [radioactive.fm](https://radioactive.fm)
 - **2009** - Started working for successful clothing brand [ALC Apparel](https://alostcauseofficial.com)
   - Helped grow from 1 shop in Wellington, NZ to over 100 stockists globally, is now based in Huntington Beach, California
