@@ -26,7 +26,7 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
   - Helped fundraise, save and convert the station into a charitable trust
   - Helped form a culture and events committee
   - Helped move to a brand new state-of-the-art building
-- **2017** - Started working for industry training organization [NZHITO](hito.org.nz)
+- **2017** - Started working for industry training organization [NZHITO](https://hito.org.nz)
   - Rebuilt 4 websites
   - Rebuilt 1 learning management system and advised on another
   - Upgraded MS servers and software from on-prem to cloud, Skype to Teams, Confluence to SharePoint
@@ -39,8 +39,8 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 - **2020** - ✈️ Attended Shopify Summit, Ottawa, Canada - toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
 - **2020** - Joined pilot to build the support experience for Shopify's highest value merchants
 - **2021** - Became an enterprise support manager
-- **2022** - Became the co-owner of [thechocolatebar.nz](https://thechocolatebar.nz) importing single-origin fine chocolate
-- **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
+<!--- **2022** - Became the co-owner of [thechocolatebar.nz](https://thechocolatebar.nz) importing single-origin fine chocolate
+- **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)-->
 - **2023** - ✈️ Attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
 - **2023** - Joined the senior leadership team of enterprise support
 
