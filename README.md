@@ -7,7 +7,7 @@
 
 ***
 
-### Career 
+### My Journey
 <details>
 <summary>Click to expand</summary>
 <br />
@@ -53,22 +53,11 @@ I'm an experienced public speaker and community organiser having been a radio an
 
 </details>
 
-### This Year
+### This year, 2025
 
-- **2025** - ✈️ Attending Shopify Summit, Toronto, Canada from 26th-29th May
-- **2025** - ✈️ #digitalnomad - visiting 17 countries between May and September (Canada > Europe > Thailand)
+- ✈️ Attending Shopify Summit, Toronto, Canada from 26th-29th May
+- ✈️ #digitalnomad - visiting 17 countries between May and September (Canada > Europe > Thailand)
 
 ***
-<br />
 
-**Are you in Wellington, New Zealand?** Let's grab a coffee or beer sometime! 🍻
-
-
-<!--
-**adamthomson/adamthomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
--->
+**Are you in Wellington, NZ?** Let's grab a coffee or beer sometime! 🍻
