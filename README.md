@@ -1,9 +1,11 @@
-## Kia ora 👋 
+## Kia ora, I'm Adam 👋 
 
-- 💼 Senior Delivery Crafter and Project Manager for [Shopify](https://github.com/shopify)'s Enterprise support team.
-- 📐 Unique career affording insight into automotive, music, fashion, hair and beauty, business, and technology industries.
-- 🌱 Always studying Agile through [Project Management Institute](https://www.pmi.org/) where I'm a member of the NZ Chapter.
+- 💼 Senior Delivery Crafter for [Shopify](https://github.com/shopify)'s Enterprise support team.
+- 📐 Unique career affording insight into varied industries; automotive, music and events, hair and beauty, education and charities, business and technology.
+- 🌱 Always studying Agile. Member of the [Project Management Institute](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
+
+***
 
 ### Career 
 <details>
@@ -55,6 +57,8 @@ I'm an experienced public speaker and community organiser having been a radio an
 
 - **2025** - ✈️ Attending Shopify Summit, Toronto, Canada from 26th-29th May
 - **2025** - ✈️ Digital nomad experience: 17 countries (Canada, Europe, Thailand) from May to September
+
+***
 
 **Are you in New Zealand, Canada or Europe? Let's grab a coffee or beer sometime!** 🍻
 
