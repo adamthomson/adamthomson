@@ -1,7 +1,7 @@
 ## Kia ora, I'm Adam 👋 
 
 - 💼 Senior Delivery Crafter for [Shopify](https://github.com/shopify)'s Enterprise support team.
-- 📐 Unique career affording insight into varied industries; automotive, music and events, hair and beauty, education and charities, business and technology.
+- 📐 Unique career with insight into the auto industry, music and events, hair and beauty, education and charities, business and technology.
 - 🌱 Always studying Agile. Member of the [Project Management Institute](https://www.pmi.org/) New Zealand Chapter.
 - 🍫 Certified chocolate taster (IICCT Level 2) and educator on fine chocolate, ethics and sustainability.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
