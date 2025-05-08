@@ -60,6 +60,7 @@ I'm an experienced public speaker and community organiser having been a radio an
 
 ***
 <br />
+
 **Are you in New Zealand, Canada, Europe or Thailand? Let's grab a coffee or beer sometime!** 🍻
 
 
