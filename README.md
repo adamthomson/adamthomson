@@ -3,6 +3,7 @@
 - 💼 Senior Delivery Crafter for [Shopify](https://github.com/shopify)'s Enterprise support team.
 - 📐 Unique career affording insight into varied industries; automotive, music and events, hair and beauty, education and charities, business and technology.
 - 🌱 Always studying Agile. Member of the [Project Management Institute](https://www.pmi.org/) New Zealand Chapter.
+- 🍫 Certified chocolate taster (IICCT Level 2) and educator on fine chocolate, ethics and sustainability.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
 
 ### My Journey
@@ -33,7 +34,7 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
   - New device procurement, rollout, training, and mobile device management
 - **2018** - WordCamp (WordPress conference) co-organiser and emcee
 
-### Shopify (2019-)  🚀
+### Shopify, 2019-
 
 - **2019** - Started working for [Shopify.com](https://shopify.com)
 - **2020** - ✈️ Attended Shopify Summit, Ottawa, Canada - toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
