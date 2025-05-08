@@ -17,17 +17,20 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 - **2009** - Started working for successful clothing brand [ALC Apparel](https://alostcauseofficial.com)
   - Helped grow from 1 shop in Wellington, NZ to over 100 stockists globally, is now based in Huntington Beach, California
   - Rebuilt website 3x and changed platforms 2x to meet trends and demand
-- **2011** - WordCamp (WordPress conference) co-organiser
-- **2014** - Contracted to manage radio station for 4 weeks
-- **2017** - Took over Wellington WordPress meetup.com group, begun co-organising WP meetups
-- **2017** - Contracted to manage radio station for 6 weeks
-  - Helped fundraise, save and convert the radio station into a charitable trust
+- **2011** - Co-organised WordCamp NZ (WordPress conference)
+- **2014** - Managed the radio station on a 4 week contract
+- **2017** - Took ownership of Wellington WordPress meetup.com group, began co-organised WordPress meetups
+- **2017** - Managed the radio station on a 6 week contract
+  - Helped fundraise, save and convert the station into a charitable trust
   - Helped form a culture and events committee
   - Helped move to a brand new state-of-the-art building
-- **2017** - Started working for industry training organization [NZHITO](hito.org.nz)
-  - Moved all technology from on-prem to cloud (O365)
+- **2017** - Started working for industry training organization [NZHITO](hito.org.nz), predominantly upgrade projects
   - Rebuilt 4 websites
-  - Rebuilt their learning management system 
+  - Rebuilt learning management system
+  - Migrated MS servers from on-prem (2008 and AD) to cloud (O365 & Azure)
+  - Migrated from Office and Skype to O365 and Teams
+  - Migration from Confluence to SharePoint
+  - Device procurement, rollout, and management (PC/Android)
 - **2018** - WordCamp (WordPress conference) co-organiser and emcee
 
 ### Shopify (2019-)  🚀
