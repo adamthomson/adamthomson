@@ -1,7 +1,7 @@
 ## Kia ora, I'm Adam 👋 
 
 - 💼 Senior Delivery Crafter for [Shopify](https://github.com/shopify)'s Enterprise support team.
-- 📐 Unique career with a lens into business and technology, clothing, hair and beauty, food importing, education, and more.
+- 📐 Unique career with a lens into business and technology, clothing, hair and beauty, food, education, and more.
 - 🌱 Always studying Agile. Member of the [Project Management Institute](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
 
