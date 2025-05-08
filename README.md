@@ -1,11 +1,13 @@
 ## Kia ora 👋 
 
 - 💼 Senior Delivery Crafter and Project Manager for [Shopify](https://github.com/shopify)'s Enterprise support team.
+- 📐 Unique career affording insight into automotive, music, fashion, hair and beauty, business, and technology industries.
 - 🌱 Always studying Agile through [Project Management Institute](https://www.pmi.org/) where I'm a member of the NZ Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
 
+### Career 
 <details>
-<summary>Career Journey (Click to expand)</summary>
+<summary>Click to expand</summary>
 <br />
 I've been with Shopify.com since 2019 where I'm proud to help our teams do their best work. 🚀<br />
 
@@ -25,33 +27,36 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
   - Helped form a culture and events committee
   - Helped move to a brand new state-of-the-art building
 - **2017** - Started working for industry training organization [NZHITO](hito.org.nz)
-  - Rebuilt 4 websites and a learning management system
-  - Migrated MS servers from on-prem to cloud, Office and Skype to O365 and Teams, and from Confluence to SharePoint
-  - Device procurement, rollout, and management
+  - Rebuilt 4 websites
+  - Rebuilt 1 learning management system and advised on another
+  - Upgraded MS servers and software from on-prem to cloud, Skype to Teams, Confluence to SharePoint
+  - New device procurement, rollout, training, and mobile device management
 - **2018** - WordCamp (WordPress conference) co-organiser and emcee
 
 ### Shopify (2019-)  🚀
 
 - **2019** - Started working for [Shopify.com](https://shopify.com)
-- **2020** - ✈️ attended Shopify Summit, Ottawa, Canada - toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
+- **2019** - Started [loctician.co.nz](https://loctician.co.nz) (rip)
+- **2020** - ✈️ Attended Shopify Summit, Ottawa, Canada - toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
 - **2020** - Joined pilot to build the support experience for Shopify's highest value merchants
 - **2021** - Became an enterprise support manager
-- **2023** - ✈️ attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
-- **2023** - Joined enterprise support's senior leadership team
+- **2022** - Became the owner of [thechocolatebar.nz](https://thechocolatebar.nz) importing and selling single-origin fine chocolate (rip)
+- **2023** - ✈️ Attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
 - **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
+- **2023** - Joined enterprise support's senior leadership team
 
-### This Year
-
-- **2025** - ✈️ attending Shopify Summit, Toronto, Canada
-- **2025** - Visiting 17 countries from 24th May to 15th September on an epic backpacking workation #digitalnomad
-
-I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.
+I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.<br />
 <br />
 I'm an experienced public speaker and community organiser having been a radio announcer and interviewer for over a decade, a planner and emcee of conferences and festivals, an IT meetup organiser, and more recently a chocolate tasting host and educator as one of NZ's very few certified tasters.<br />
 
 </details>
 
-**Are you in Wellington? Let's grab a coffee or beer!** 🍻
+### This Year
+
+- **2025** - ✈️ Attending Shopify Summit, Toronto, Canada from 26th-29th May
+- **2025** - ✈️ Digital nomad experience: 17 countries (Canada, Europe, Thailand) from May to September
+
+**Are you in New Zealand, Canada or Europe? Let's grab a coffee or beer sometime!** 🍻
 
 
 <!--
