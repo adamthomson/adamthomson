@@ -36,14 +36,13 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 ### Shopify (2019-)  🚀
 
 - **2019** - Started working for [Shopify.com](https://shopify.com)
-- **2019** - Started [loctician.co.nz](https://loctician.co.nz) (rip)
 - **2020** - ✈️ Attended Shopify Summit, Ottawa, Canada - toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
 - **2020** - Joined pilot to build the support experience for Shopify's highest value merchants
 - **2021** - Became an enterprise support manager
-- **2022** - Became the owner of [thechocolatebar.nz](https://thechocolatebar.nz) importing and selling single-origin fine chocolate (rip)
-- **2023** - ✈️ Attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
+- **2022** - Became the co-owner of [thechocolatebar.nz](https://thechocolatebar.nz) importing single-origin fine chocolate
 - **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
-- **2023** - Joined enterprise support's senior leadership team
+- **2023** - ✈️ Attended LeadCon (leadership conference), Fairmont Banff Springs, Canada
+- **2023** - Joined the senior leadership team of enterprise support
 
 </details>
 
