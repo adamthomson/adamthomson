@@ -5,8 +5,6 @@
 - 🌱 Always studying Agile. Member of the [Project Management Institute](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX.
 
-***
-
 ### My Journey
 <details>
 <summary>Click to expand</summary>
@@ -54,8 +52,8 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 - ✈️ Attending Shopify Summit, Toronto, Canada from 26th-29th May
 - ✈️ #digitalnomad - visiting 17 countries between May and September (Canada > Europe > Thailand)
 
-***
-
 I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation and being inspired. I believe that my diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver.<br />
+
+***
 
 **Are you in Wellington, NZ?** Let's grab a coffee or beer sometime! 🍻
