@@ -47,10 +47,6 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 - **2023** - Became a certified chocolate taster and educator (IICCT Level 1 and 2)
 - **2023** - Joined enterprise support's senior leadership team
 
-I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation, and being inspired. I believe that my diverse experiences enhance my adaptability and foresight, making me a valuable simplifier and problem solver.<br />
-<br />
-I'm an experienced public speaker and community organiser having been a radio announcer and interviewer for over a decade, a planner and emcee of conferences and festivals, an IT meetup organiser, and more recently a chocolate tasting host and educator as one of NZ's very few certified tasters.<br />
-
 </details>
 
 ### This year, 2025
@@ -59,5 +55,7 @@ I'm an experienced public speaker and community organiser having been a radio an
 - ✈️ #digitalnomad - visiting 17 countries between May and September (Canada > Europe > Thailand)
 
 ***
+
+I care about good design and seamless experiences, feedback and informed decision making, first principles thinking, innovation and being inspired. I believe that my diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver.<br />
 
 **Are you in Wellington, NZ?** Let's grab a coffee or beer sometime! 🍻
