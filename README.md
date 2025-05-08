@@ -61,7 +61,7 @@ I'm an experienced public speaker and community organiser having been a radio an
 ***
 <br />
 
-**In New Zealand, Canada, Europe or Thailand?** Let's grab a coffee or beer sometime! 🍻
+**Are you in Wellington, New Zealand?** Let's grab a coffee or beer sometime! 🍻
 
 
 <!--
