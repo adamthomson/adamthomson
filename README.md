@@ -56,11 +56,11 @@ I'm an experienced public speaker and community organiser having been a radio an
 ### This Year
 
 - **2025** - ✈️ Attending Shopify Summit, Toronto, Canada from 26th-29th May
-- **2025** - ✈️ Digital nomad experience: 17 countries (Canada, Europe, Thailand) from May to September
+- **2025** - ✈️ #digitalnomad - visiting 17 countries between May and September (Canada > Europe > Thailand)
 
 ***
-
-**Are you in New Zealand, Canada or Europe? Let's grab a coffee or beer sometime!** 🍻
+<br />
+**Are you in New Zealand, Canada, Europe or Thailand? Let's grab a coffee or beer sometime!** 🍻
 
 
 <!--
