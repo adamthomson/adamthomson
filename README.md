@@ -21,9 +21,9 @@ I've been with Shopify.com since 2019 where I'm proud to help our teams do their
 - **2007** - Became a radio DJ and announcer at legendary 40-year-old station [RadioActive 88.6FM](https://radioactive.fm)
 - **2009** - Started working for clothing brand [ALC Apparel](https://alostcauseofficial.com)
 - **2011** - WordCamp NZ (WordPress conference) co-organiser
-- **2014** - Managed the radio station on a 4 week contract
+- **2014** - Managed the radio station on a 1 month contract
 - **2017** - Took ownership of Wellington WordPress meetup.com group and co-organising monthly WordPress meetups
-- **2017** - Managed the radio station on a 9 week contract
+- **2017** - Managed the radio station on a 2 month contract
 - **2017** - Started working for NZ's hair & beauty industry training organization [NZHITO](https://hito.org.nz)
 - **2018** - WordCamp (WordPress conference) co-organiser and emcee
 
