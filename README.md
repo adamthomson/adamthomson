@@ -17,8 +17,8 @@ I've been at Shopify.com since 2019, helping our teams excel. 🚀
 
 ### Early Years
 
-- 2000-2018 - Freelancer in website development, marketing, design, and photography.
-- 2004 - Started event organization and music/business promotion.
+- 2000 - Begun freelancing in website development, marketing, design, and photography.
+- 2004 - Started music and event promotion.
 - 2007 - Became a radio DJ at iconic 40-year-old station [RadioActive 88.6FM](https://radioactive.fm/)
 - 2009 - Began working for clothing brand [ALC Apparel](https://alostcauseofficial.com/)
 - 2011 - Co-organizer of WordCamp NZ (national WordPress conference)
