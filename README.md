@@ -32,18 +32,21 @@ I've been at Shopify.com since 2019, helping our teams excel. 🚀
 
 - 2019 - Started at [Shopify.com](https://shopify.com/)
 - 2020 - ✈️ Attended Shopify Summit in Ottawa, Canada, toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
-- 2020 - Joined the pilot for enhancing support for Shopify's top merchants
+- 2020 - Joined the pilot for enhancing support for Shopify's top merchants; [Shopify for Enterprise](https://www.shopify.com/enterprise)
 - 2021 - Promoted to Enterprise Support Manager
 - 2023 - ✈️ Attended LeadCon (leadership conference) at Fairmont Banff Springs, Canada
-- 2023 - Joined Enterprise Support's senior leadership team
+- 2023 - Joined Shopify Enterprise Support's senior leadership team as a Senior Delivery Expert
+- 2025 - ✈️ Attended Shopify Summit in Toronto, Canada, toured Toronto port, 3-day hackathon
 
 </details>
 
 ### This year, 2025
 
 - ✈️ Attending Shopify Summit in Toronto, Canada from 27-30 May
-- ✈️ Digital Nomad - travelling across a dozen European countries from June to August
+- ✈️ Working remotely across a dozen European countries from June to August
+- 🤘 August 5-9 attending a metal festival in Josefov Fortress, Czech Republic
+- 🍜 September 1-15 taking my brother to Thailand on the way home
 
-I value good design, seamless experiences, feedback-driven decisions, first principles thinking, innovation, and inspiration.
+I value good design, seamless experiences, feedback-driven decisions, first principles thinking, innovation, and people who inspire others.
 
 My diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver.
