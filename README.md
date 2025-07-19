@@ -5,6 +5,8 @@
 - 🌱 Certified Agile. Member of [PMI](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX!
 
+My diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver. I value good design and seamless experiences, feedback loops and first principles thinking, innovation and people who inspire others.
+
 Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting host, and educator on ethical and fine chocolate.
 
 
@@ -47,6 +49,3 @@ I've been at Shopify.com since 2019, helping our teams excel. 🚀
 - 🤘 August 5-9 attending a metal festival in Josefov Fortress, Czech Republic
 - 🍜 September 1-15 taking my brother to Thailand on the way home
 
-I value good design, seamless experiences, feedback-driven decisions, first principles thinking, innovation, and people who inspire others.
-
-My diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver.
