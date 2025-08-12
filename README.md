@@ -9,43 +9,79 @@ My diverse journey enhances my adaptability and foresight, making me a valuable 
 
 Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting host, and educator on ethical and fine chocolate.
 
+I've been at [Shopify.com](https://shopify.com/) since 2019, enhancing systems and helping high-impact teams to excel 🚀
 
 ### My Journey
+
 <details>
-<summary>Click to expand</summary>
+<summary>Freelancing & Radio, 2000-2018</summary>
 <br />
 
-I've been at Shopify.com since 2019, helping our teams excel. 🚀
-
-### Early Years
-
-- 2000 - Begun freelancing in website development, marketing, design, and photography.
+- 2000 - Began my career in website development, naturally with some marketing, design, and photography on the side. I worked with many dozens of entities, building a great portfolio and reputation over nearly 20 years.
 - 2004 - Started music and event promotion.
-- 2007 - Became a radio DJ at iconic 40-year-old station [RadioActive 88.6FM](https://radioactive.fm/)
-- 2009 - Began working for clothing brand [ALC Apparel](https://alostcauseofficial.com/)
-- 2011 - Co-organizer of WordCamp NZ (national WordPress conference)
-- 2014 - Managed the radio station on a 1-month contract
-- 2017 - Led Wellington WordPress meetup.com group and co-organized monthly meetups
-- 2017 - Managed the radio station on a 2-month contract
-- 2017 - Joined NZ's hair & beauty industry training organization [NZHITO](https://hito.org.nz/)
-- 2018 - Co-organizer and emcee at WordCamp NZ (national WordPress conference)
+- 2007 - Became a radio DJ at iconic 40-year-old station [RadioActive 88.6FM](https://radioactive.fm).
+  - Hosted many different shows over the following 11 years, day and night.
+  - Interviewed loads of musicians, and some celebrities.
+  - Took on other roles like designer and podcast producer.
+- 2009 - Began working for [ALC Apparel](https://alostcauseofficial.com/) helping to build a global clothing brand from Cuba Street. Now based in California with 100+ stockists around the globe.
+- 2011 - Co-organizer of national WordPress conference.
+- 2014 - Managed the radio station on a 1-month contract.
+- 2017 - Took on Wellington WordPress meetup.com group, co-organizing monthly meetups and re-establishing that community.
+- 2017 - Managed the radio station on a 2-month contract, including direct involvement in the RadioActive.fm ReActivate Campaign:
+  - Fundraised $90K to avoid liquidation and protect the station for another 40 years.
+  - Huge marketing campaign involving many celebrities and past DJs and associates of the station.
+  - Assisted in the station becoming a charitable trust, establishing a trust board, plus DJ and events committees.
+  - A new purpose-built premise in the city complete with offices and full production suite including a new purpose-built recording and live-to-air studios.
+- 2018 - Co-organizer and emcee of national WordPress conference.
 
-### Shopify, 2019-
+</details>
 
-- 2019 - Started at [Shopify.com](https://shopify.com/)
-- 2020 - ✈️ Attended Shopify Summit in Ottawa, Canada, toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
-- 2020 - Joined the pilot for enhancing support for Shopify's top merchants; [Shopify for Enterprise](https://www.shopify.com/enterprise)
-- 2021 - Promoted to Enterprise Support Manager
-- 2023 - ✈️ Attended LeadCon (leadership conference) at Fairmont Banff Springs, Canada
-- 2023 - Joined Shopify Enterprise Support's senior leadership team as a Senior Delivery Expert
-- 2025 - ✈️ Attended Shopify Summit in Toronto, Canada, toured Toronto port, 3-day hackathon
+<details>
+<summary>NZHITO, 2017-2019</summary>
+<br />
+
+- 2017 - Began working for [NZHITO](https://hito.org.nz) completing several large bodies of work over 2 years:
+  - Liaising with board and stakeholders as needed
+  - Reporting to the CTO directly
+  - Modernisation of all systems; migrating all knowledge and software used to the cloud, data retention and risk mitigation, service monitoring, support ticketing, task management, device procurement and management, upgrading all office equipment including VOIP and the ability to work remotely
+  - Redeveloping multiple public-facing websites to be mobile responsive, modern and SEO friendly
+  - Developing a learning management system for apprentices, and advising on another
+  - Helping to ensure we meet any requirements set by either the Tertiary Education Commission, MBIE or NZ Government
+  - Training and supporting staff
+  - Consulting on ICT, marketing, and events to senior management
+
+</details>
+
+<details>
+<summary>Shopify, 2019-</summary>
+<br />
+
+- 2019
+  - Started as an **Escalated Technical Specialist**, with consistent upper 90th percentile resolution and CSAT
+  - Became an **Support Response Manager**, managing incidents and any outward facing communications around them
+- 2020
+  - ✈️ Attended Shopify Summit in Ottawa, Canada, toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
+  - Joined a pilot to enhance the support of Shopify's highest volume merchants
+- 2021
+  - Became an **Enterprise Support Manager**, leading high-impact teams around the globe
+- 2023
+  - ✈️ Attended a leadership conference at the Fairmont Banff Springs, a 200-yo Scottish baronial style castle in the Rocky mountains, Canada
+  - Invited to join senior leadership as **Project Manager** of the Enterprise Support build
+- 2024
+  - Official launch of [Shopify for Enterprise](https://www.shopify.com/enterprise)
+  - Invited to stay in senior leadership team as a **Senior Delivery Expert** for Shopify's Plus and Enterprise models
+  - 🎉 Celebrated 5 years at Shopify, using the bonus leave to visit Thailand and Singapore
+- 2025
+  - ✈️ Attended Shopify Summit in Toronto, Canada, toured our Toronto office, 3-day hackathon
+  - ✈️ Participated in Shopify's Destination90 program, working remotely across Europe for 90 days from June to August
 
 </details>
 
 ### This year, 2025
 
-- ✈️ Attending Shopify Summit in Toronto, Canada from 27-30 May
-- ✈️ Working remotely across a dozen European countries from June to August
-- 🤘 August 5-9 attending a metal festival in Josefov Fortress, Czech Republic
-- 🍜 September 1-15 taking my brother to Thailand on the way home
+- ✈️ Attending Shopify Summit in Toronto, Canada in May
+- ✈️ Working remotely across 10 Europe countries from June to August
+- 🤘 Attending a 4-day music festival at Josefov Fortress, Czech Republic in August
+- 🍜 Taking my brother to Bangkok and Chiang Mai, Thailand in September
+- 🇳🇿 Back home
 
