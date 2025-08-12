@@ -38,15 +38,14 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 <summary>NZHITO, 2017-2019</summary>
 <br />
 
-- 2017 - Began working for [NZHITO](https://hito.org.nz) completing several large bodies of work over 2 years:
-  - Reporting to the CTO
-  - Liaising with CEO, board and stakeholders
+- 2017 - Began working for [NZHITO](https://hito.org.nz), completing several large bodies of work over 2 years:
   - Modernisation of all systems; migrating all knowledge and software used to the cloud, data retention and risk mitigation, service monitoring, support ticketing, task management, device procurement and management, upgrading all office equipment including VOIP and the ability to work remotely
   - Redeveloping multiple public-facing websites to be mobile responsive, modern and SEO friendly
   - Developing a learning management system for apprentices, and advising on another
   - Helping to ensure we meet any requirements set by either the Tertiary Education Commission, MBIE or NZ Government
-  - Training and supporting staff
-  - Consulting on ICT, marketing, and events to senior management
+  - Training and supporting frontline staff through adoption
+  - Consulting on ICT, marketing, and events to senior management and c-class
+  - Reporting to the CTO, supporting the CEO and CFO, and liasing with board and stakeholders as needed.
 
 </details>
 
