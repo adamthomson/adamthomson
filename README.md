@@ -15,22 +15,22 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 <summary>Freelancing & Radio, 2000-2018</summary>
 <br />
 
-- 2000 - Began my career in website development, naturally with some marketing, design, and photography on the side. I worked with many dozens of entities, building a great portfolio and reputation over nearly 20 years.
-- 2004 - Started music and event promotion.
-- 2007 - Became a radio DJ at iconic 40-year-old station [RadioActive 88.6FM](https://radioactive.fm).
-  - Hosted many different shows over the following 11 years, day and night.
-  - Interviewed loads of musicians, and some celebrities.
-  - Took on other roles like designer and podcast producer.
-- 2009 - Began working for [ALC Apparel](https://alostcauseofficial.com/) helping to build a global clothing brand from Cuba Street. Now based in California with 100+ stockists around the globe.
-- 2011 - Co-organizer of national WordPress conference.
-- 2014 - Managed the radio station on a 1-month contract.
-- 2017 - Took on Wellington WordPress meetup.com group, co-organizing monthly meetups and re-establishing that community.
+- 2000 - Began my career in website development, naturally with some marketing, design, and photography on the side. I worked with many dozens of entities, building a great portfolio and reputation over nearly 20 years
+- 2004 - Started music and event promotion
+- 2007 - Became a radio DJ at iconic 40-year-old station [RadioActive 88.6FM](https://radioactive.fm)
+  - Hosted many different shows over the following 11 years, day and night
+  - Interviewed loads of musicians, and some celebrities
+  - Took on other roles like designer and podcast producer
+- 2009 - Began working for [ALC Apparel](https://alostcauseofficial.com/) helping a friend build his global clothing brand from Cuba Street, now based in California with 100+ stockists around the globe
+- 2011 - Co-organizer of national WordPress conference
+- 2014 - Managed the radio station on a 1-month contract
+- 2017 - Took on Wellington WordPress meetup.com group, co-organizing monthly meetups and re-establishing that community
 - 2017 - Managed the radio station on a 2-month contract, including direct involvement in the RadioActive.fm ReActivate Campaign:
-  - Fundraised $90K to avoid liquidation and protect the station for another 40 years.
-  - Huge marketing campaign involving many celebrities and past DJs and associates of the station.
-  - Assisted in the station becoming a charitable trust, establishing a trust board, plus DJ and events committees.
-  - A new purpose-built premise in the city complete with offices and full production suite including a new purpose-built recording and live-to-air studios.
-- 2018 - Co-organizer and emcee of national WordPress conference.
+  - Fundraised $90K to avoid liquidation and protect the station for another 40 years
+  - Huge marketing campaign involving many celebrities and past DJs and associates of the station
+  - Assisted in the station becoming a charitable trust, establishing a trust board, plus DJ and events committees
+  - A new purpose-built premise in the city complete with offices and full production suite including a new purpose-built recording and live-to-air studios
+- 2018 - Co-organizer and emcee of national WordPress conference
 
 </details>
 
@@ -53,6 +53,7 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 <details>
 <summary>Shopify, 2019-</summary>
 <br />
+
 I've been at [Shopify.com](https://shopify.com/) since 2019, enhancing systems and helping high-impact teams to excel 🚀
 
 - 2019
@@ -64,7 +65,7 @@ I've been at [Shopify.com](https://shopify.com/) since 2019, enhancing systems a
 - 2021
   - Became an **Enterprise Support Manager**, leading high-impact teams around the globe
 - 2023
-  - ✈️ Attended a leadership conference at the Fairmont Banff Springs, a 200-yo Scottish baronial style castle in the Rocky mountains, Canada
+  - ✈️ Attended a leadership conference at the Fairmont Banff Springs in the Rocky mountains, Canada
   - Invited to join senior leadership as **Project Manager** of the Enterprise Support build
 - 2024
   - Official launch of [Shopify for Enterprise](https://www.shopify.com/enterprise)
