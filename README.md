@@ -29,7 +29,7 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
   - Fundraised $90K to avoid liquidation and protect the station for another 40 years
   - Huge marketing campaign involving many celebrities and past DJs and associates of the station
   - Assisted in the station becoming a charitable trust, establishing a trust board, plus DJ and events committees
-  - A new purpose-built premise in the city complete with offices and full production suite including a new purpose-built recording and live-to-air studios
+  - A brand new premise in the city complete with offices and full production suite including new purpose-built recording and live-to-air studios
 - 2018 - Co-organizer and emcee of national WordPress conference
 
 </details>
@@ -39,8 +39,8 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 <br />
 
 - 2017 - Began working for [NZHITO](https://hito.org.nz) completing several large bodies of work over 2 years:
-  - Liaising with board and stakeholders as needed
-  - Reporting to the CTO directly
+  - Reporting to the CTO
+  - Liaising with CEO, board and stakeholders
   - Modernisation of all systems; migrating all knowledge and software used to the cloud, data retention and risk mitigation, service monitoring, support ticketing, task management, device procurement and management, upgrading all office equipment including VOIP and the ability to work remotely
   - Redeveloping multiple public-facing websites to be mobile responsive, modern and SEO friendly
   - Developing a learning management system for apprentices, and advising on another
