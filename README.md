@@ -5,7 +5,7 @@
 - 🌱 Certified Agile. Member of [PMI](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX!
 
-My diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver. I value good design and seamless experiences, feedback loops and first principles thinking, innovation and people who inspire others.
+My diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver. I value good design and seamless experiences, feedback loops, first principles thinking, innovation, and people who inspire others.
 
 Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting host, and educator on ethical and fine chocolate.
 
@@ -15,8 +15,8 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 <summary>Freelancing & Radio, 2000-2018</summary>
 <br />
 
-- 2000 - Began my career in website development, naturally with some marketing, design, and photography on the side. I worked with many dozens of entities, building a great portfolio and reputation over nearly 20 years
-- 2004 - Started music and event promotion
+- 2000 - Began my career in website development, naturally with some marketing, design, and photography on the side. I worked with many dozens of entities, building a great portfolio and reputation
+- 2004 - Started music and event promotion. I organised everything from music festivals to car shows to fundraisers
 - 2007 - Became a radio DJ at iconic 40-year-old station [RadioActive 88.6FM](https://radioactive.fm)
   - Hosted many different shows over the following 11 years, day and night
   - Interviewed loads of musicians, and some celebrities
@@ -29,7 +29,7 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
   - Fundraised $90K to avoid liquidation and protect the station for another 40 years
   - Huge marketing campaign involving many celebrities and past DJs and associates of the station
   - Assisted in the station becoming a charitable trust, establishing a trust board, plus DJ and events committees
-  - A brand new premise in the city complete with offices and full production suite including new purpose-built recording and live-to-air studios
+  - A brand new premise in the city including offices and purpose-built production suite, recording and live-to-air studios, all featuring the latest in modern radio, recording, and production technology.
 - 2018 - Co-organizer and emcee of national WordPress conference
 
 </details>
