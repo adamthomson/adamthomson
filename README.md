@@ -9,8 +9,6 @@ My diverse journey enhances my adaptability and foresight, making me a valuable 
 
 Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting host, and educator on ethical and fine chocolate.
 
-I've been at [Shopify.com](https://shopify.com/) since 2019, enhancing systems and helping high-impact teams to excel 🚀
-
 ### My Journey
 
 <details>
@@ -55,6 +53,7 @@ I've been at [Shopify.com](https://shopify.com/) since 2019, enhancing systems a
 <details>
 <summary>Shopify, 2019-</summary>
 <br />
+I've been at [Shopify.com](https://shopify.com/) since 2019, enhancing systems and helping high-impact teams to excel 🚀
 
 - 2019
   - Started as an **Escalated Technical Specialist**, with consistent upper 90th percentile resolution and CSAT
