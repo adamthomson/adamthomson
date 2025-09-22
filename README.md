@@ -12,7 +12,7 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 ### My Journey
 
 <details>
-<summary>Freelancing & Radio, 2000-2018</summary>
+<summary>Freelancing, Radio & WordPress 2000-2018</summary>
 <br />
 
 - 2000 - Began my career in website development, naturally with some marketing, design, and photography on the side. I worked with many dozens of entities, building a great portfolio and reputation
