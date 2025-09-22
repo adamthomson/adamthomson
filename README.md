@@ -1,8 +1,8 @@
 ## Kia ora, I'm Adam 👋 
 
-- 💼 Senior Delivery Expert for [Shopify](https://github.com/shopify)'s Plus and Enterprise support teams.
+- 💼 Senior Support Delivery and Operations for [Shopify](https://github.com/shopify)'s [Plus](https://www.shopify.com/plus?country=us&lang=en) and [Enterprise](https://www.shopify.com/enterprise) tiers.
 - 📐 Unique background in business, technology and public speaking.
-- 🌱 Certified Agile. Member of [PMI](https://www.pmi.org/) New Zealand Chapter.
+- 🌱 Certified ICAgile. Member of [PMI](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX!
 
 My diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver. I value good design and seamless experiences, feedback loops, first principles thinking, innovation, and people who inspire others.
