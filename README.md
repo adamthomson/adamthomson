@@ -12,7 +12,7 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 ### My Journey
 
 <details>
-<summary>Freelancing, Radio & WordPress 2000-2018</summary>
+<summary>2000-2018 Freelancing, Radio & WordPress</summary>
 <br />
 
 - 2000 - Began my career in website development, naturally with some marketing, design, and photography on the side. I worked with many dozens of entities, building a great portfolio and reputation
@@ -35,7 +35,7 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 </details>
 
 <details>
-<summary>NZHITO, 2017-2019</summary>
+<summary>2017-2019 NZHITO</summary>
 <br />
 
 - 2017 - Began working for [NZHITO](https://hito.org.nz), completing several large bodies of work over 2 years:
@@ -50,37 +50,28 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 </details>
 
 <details>
-<summary>Shopify, 2019-</summary>
+<summary>2019- Shopify</summary>
 <br />
 
-I've been at [Shopify.com](https://shopify.com/) since 2019, enhancing systems and helping high-impact teams to excel 🚀
+I work on enhancing [Shopify.com](https://shopify.com/)'s systems and support offering for their highest value merchants. 🚀
 
 - 2019
-  - Started as an **Escalated Technical Specialist**, with consistent upper 90th percentile resolution and CSAT
-  - Became an **Support Response Manager**, managing incidents and any outward facing communications around them
+  - **Senior Escalated Technical Specialist**
+  - **Support Response Manager**
+  - Invited to join pilot to enhance the support of Shopify's highest value merchants
 - 2020
-  - ✈️ Attended Shopify Summit in Ottawa, Canada, toured HQ, met CEO Tobi Lütke, dinner with COO Toby Shannon
-  - Joined a pilot to enhance the support of Shopify's highest volume merchants
+  - ✈️ Attended Shopify Summit in Canada, dinner with COO Toby Shannon, met CEO Tobi Lütke
 - 2021
-  - Became an **Enterprise Support Manager**, leading high-impact teams around the globe
+  - **Enterprise Support Manager**
 - 2023
-  - ✈️ Attended a leadership conference at the Fairmont Banff Springs in the Rocky mountains, Canada
-  - Invited to join senior leadership as **Project Manager** of the Enterprise Support build
+  - ✈️ Attended leadership conference at Fairmont Banff Springs, Rocky mountains, Canada
+  - **Project Manager, Enterprise Support Build**
 - 2024
   - Official launch of [Shopify for Enterprise](https://www.shopify.com/enterprise)
-  - Invited to stay in senior leadership team as a **Senior Delivery Expert** for Shopify's Plus and Enterprise models
-  - 🎉 Celebrated 5 years at Shopify, using the bonus leave to visit Thailand and Singapore
+  - **Senior Delivery Expert, Plus and Enterprise Support**
 - 2025
-  - ✈️ Attended Shopify Summit in Toronto, Canada, toured our Toronto office, 3-day hackathon
-  - ✈️ Participated in Shopify's Destination90 program, working remotely across Europe for 90 days from June to August
+  - ✈️ Attended Shopify Summit and 3-day hackathon in Toronto, Canada
+  - ✈️ Participated in Destination 90 program, working remotely across Europe for 90 days (10 countries)
+  - Moved to Support Operations team
 
 </details>
-
-### This year, 2025
-
-- ✈️ Attending Shopify Summit in Toronto, Canada in May
-- ✈️ Working remotely across 10 Europe countries from June to August
-- 🤘 Attending a 4-day music festival at Josefov Fortress, Czech Republic in August
-- 🍜 Taking my brother to Bangkok and Chiang Mai, Thailand in September
-- 🇳🇿 Back home
-
