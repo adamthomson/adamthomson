@@ -19,7 +19,7 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 - 2004 - Started music and event promotion. I organised everything from music festivals to car shows to fundraisers
 - 2007 - Became a radio DJ at iconic 40-year-old station [RadioActive 88.6FM](https://radioactive.fm)
   - Hosted many different shows over the following 11 years, day and night
-  - Interviewed loads of musicians, and some celebrities
+  - Interviewed renowned musicians and other celebrities
   - Took on other roles like designer and podcast producer
 - 2009 - Began working for [ALC Apparel](https://alostcauseofficial.com/) helping a friend build his global clothing brand from Cuba Street, now based in California with 100+ stockists around the globe
 - 2011 - Co-organizer of national WordPress conference
