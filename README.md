@@ -7,8 +7,6 @@ Since 2019 I've worked on enhancing the support [Shopify.com](https://shopify.co
 - 🌱 Certified ICAgile. Member of [PMI](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX!
 
-My diverse journey gives me adaptability and foresight, making me a valuable problem solver and simplifier. I love good design, feedback loops, first principles thinking, innovation, and people who inspire others.
-
 Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), fine chocolate tasting host and educator.
 
 ### My Journey
@@ -75,3 +73,5 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), fine chocolate tastin
   - Moved to Support Operations team
 
 </details>
+
+My diverse journey gives me adaptability and foresight, making me a valuable problem solver and simplifier. I love good design, feedback loops, first principles thinking, innovation, and people who inspire others.
