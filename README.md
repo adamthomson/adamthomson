@@ -2,7 +2,7 @@
 
 Since 2019 I've worked on enhancing the support [Shopify.com](https://shopify.com/) provide their highest value merchants. 🚀
 
-- 💼 Senior Support Delivery and Operations for [Shopify](https://github.com/shopify)'s [Plus](https://www.shopify.com/plus?country=us&lang=en) and [Enterprise](https://www.shopify.com/enterprise) tiers.
+- 💼 Senior Support Delivery and Operations for Shopify [Plus](https://www.shopify.com/plus) and [Enterprise](https://www.shopify.com/enterprise).
 - 📐 Unique background in business, technology and public speaking.
 - 🌱 Certified ICAgile. Member of [PMI](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX!
