@@ -1,13 +1,15 @@
 ## Kia ora, I'm Adam 👋 
 
+Since 2019 I've worked on enhancing the support [Shopify.com](https://shopify.com/) provide their highest value merchants. 🚀
+
 - 💼 Senior Support Delivery and Operations for [Shopify](https://github.com/shopify)'s [Plus](https://www.shopify.com/plus?country=us&lang=en) and [Enterprise](https://www.shopify.com/enterprise) tiers.
 - 📐 Unique background in business, technology and public speaking.
 - 🌱 Certified ICAgile. Member of [PMI](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX!
 
-My diverse journey enhances my adaptability and foresight, making me a valuable simplifier and problem solver. I value good design and seamless experiences, feedback loops, first principles thinking, innovation, and people who inspire others.
+My diverse journey gives me adaptability and foresight, making me a valuable problem solver and simplifier. I love good design, feedback loops, first principles thinking, innovation, and people who inspire others.
 
-Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting host, and educator on ethical and fine chocolate.
+Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), fine chocolate tasting host and educator.
 
 ### My Journey
 
@@ -39,13 +41,13 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 <br />
 
 - 2017 - Began working for [NZHITO](https://hito.org.nz), completing several large bodies of work over 2 years:
-  - Modernisation of all systems; migrating all knowledge and software used to the cloud, data retention and risk mitigation, service monitoring, support ticketing, task management, device procurement and management, upgrading all office equipment including VOIP and the ability to work remotely
-  - Redeveloping multiple public-facing websites to be mobile responsive, modern and SEO friendly
-  - Developing a learning management system for apprentices, and advising on another
-  - Helping to ensure we meet any requirements set by either the Tertiary Education Commission, MBIE or NZ Government
+  - Modernisation of all systems; migrating knowledge management and daily software to cloud, security, retention and mitigation, service monitoring, support ticketing, task management, procurement, mobile device management, upgrading all office equipment to VOIP and the ability to work remotely
+  - Redeveloping several interactive public websites
+  - Developing a learning management system for apprentices nationwide
+  - Helping to ensure we meet requirements set by Tertiary Education Commission, MBIE or the NZ Government
   - Training and supporting frontline staff through adoption
-  - Consulting on ICT, marketing, and events to senior management and c-class
-  - Reporting to the CTO, supporting the CEO and CFO, and liasing with board and stakeholders as needed.
+  - Advising on ICT, marketing, and events to senior leadership and c-suite
+  - Reporting to the CTO, supporting the CEO and CFO, and liasing with board and stakeholders
 
 </details>
 
@@ -53,14 +55,12 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting hos
 <summary>2019- Shopify</summary>
 <br />
 
-I work on enhancing [Shopify.com](https://shopify.com/)'s systems and support offering for their highest value merchants. 🚀
-
 - 2019
   - **Senior Escalated Technical Specialist**
   - **Support Response Manager**
   - Invited to join pilot to enhance the support of Shopify's highest value merchants
 - 2020
-  - ✈️ Attended Shopify Summit in Canada, dinner with COO Toby Shannon, met CEO Tobi Lütke
+  - ✈️ Attended Shopify Summit in Canada, met COO Toby Shannon and CEO Tobi Lütke
 - 2021
   - **Enterprise Support Manager**
 - 2023
