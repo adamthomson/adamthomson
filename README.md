@@ -9,6 +9,8 @@ Since 2019 I've worked on enhancing the support [Shopify.com](https://shopify.co
 
 Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), fine chocolate tasting host and educator.
 
+---
+
 ### My Journey
 
 <details>
