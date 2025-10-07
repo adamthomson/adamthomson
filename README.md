@@ -70,7 +70,7 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), fine chocolate tastin
 - 2025
   - ✈️ Attended Shopify Summit and 3-day hackathon in Toronto, Canada
   - ✈️ Participated in Destination 90 program, working remotely across Europe for 90 days (10 countries)
-  - Moved to Support Operations team
+  - **Senior Specialist, Support Operations**
 
 </details>
 
