@@ -3,12 +3,12 @@
 Since 2019 I've worked on enhancing the support [Shopify.com](https://shopify.com/) provide their highest value merchants. 🚀
 
 - 💼 Senior Support Delivery and Operations for Shopify [Plus](https://www.shopify.com/plus) and [Enterprise](https://www.shopify.com/enterprise).
-- 📐 Unique background in business, technology and public speaking.
+- 📐 Unique background in business, leadership, technology and public speaking.
 - 🌱 Certified ICAgile. Member of [PMI](https://www.pmi.org/) New Zealand Chapter.
 - 💬 Reach me on [LinkedIn](https://linkedin.com/in/adamthomsonnz) to chat about leadership, business, data, and good UX!
 
-Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), fine chocolate tasting host and educator.
-
+Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), chocolate tasting host and fine chocolate educator.
+<!--
 ---
 
 ### My Journey
@@ -77,3 +77,4 @@ Fun fact: 🍫 Certified chocolate taster (IICCT Level 2), fine chocolate tastin
 </details>
 
 My diverse journey gives me adaptability and foresight, making me a valuable problem solver and simplifier. I love good design, feedback loops, first principles thinking, innovation, and people who inspire others.
+-->
